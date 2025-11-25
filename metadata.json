@@ -1,0 +1,5 @@
+{
+  "name": "MarketSense AI",
+  "description": "Real-time market sentiment scanner using Gemini AI to analyze web data and generate Buy/Sell signals for major market sectors.",
+  "requestFramePermissions": []
+}
